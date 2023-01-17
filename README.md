@@ -1,12 +1,10 @@
 ```php
 include "readme.md";
 ```
-
 <h1 align="center">Prazer!!<br />Pode me chamar de Taveira👋</h1>
 <h3 align="center">Um desenvolvedor back-end apaixonado por programação</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taveiratavel&label=Profile%20views&color=red&style=for-the-badge" alt="taveiratavel" /> </p>
+<br>
+<img align="right" src="https://i.imgur.com/VCiJvAL.gif" width="50%">
 
 - 🔭 Estou atualmente trabalhando como **Freelancer WEB**
 
@@ -17,6 +15,8 @@ include "readme.md";
 - 📄 Saiba mais sobre [minhas experiências e currículo](https://linkedin.com/in/mateus-taveira)
 
 - ☕ **24 de maio é o dia nacional do café!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taveiratavel&label=Profile%20views&color=red&style=for-the-badge" alt="taveiratavel" /> </p>
 
 <h3 align="left">Me encontre aqui:</h3>
 <p align="left">
